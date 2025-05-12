@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "throbbing-cloud-7589",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "88160305-52da-4b9c-870e-62f6ac6485ec",
+      "database_name": "empty-hat-b7a4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
